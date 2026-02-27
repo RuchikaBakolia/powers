@@ -3,7 +3,7 @@ name: "arm-soc-migration"
 displayName: "Perform Migration between Arm SoC"
 description: "Guides migration of code from one Arm SoC to another, with architecture-aware analysis and safe migration practices."
 keywords: ["arm", "soc", "migration", "embedded", "cortex", "neon", "sve", "hal", "platform", "cross-compile"]
-author: "ARM"
+author: "Arm"
 ---
 
 # Kiro Arm SoC Migration Power
