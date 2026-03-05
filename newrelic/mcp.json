@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "newrelic-mcp-server": {
+      "url": "https://mcp.newrelic.com/mcp/",
+      "oauth": {
+        "authorizationUrl": "https://login.newrelic.com/oauth2/authorize",
+        "tokenUrl": "https://login.newrelic.com/oauth2/token",
+        "scopes": [
+          "openid",
+          "profile",
+          "mcp:access"
+        ],
+        "usePKCE": true
+      },
+      "disabled": false
+    }
+  }
+}
